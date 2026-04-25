@@ -28,9 +28,9 @@
 | Docker Compose | 2.x | `docker compose version` |
 
 > **Для мобильной разработки дополнительно требуется:**
-> - Expo CLI: `npm install -g expo-cli`
 > - Android Studio (для Android-эмулятора) или Xcode (для iOS-симулятора, только macOS)
 > - Приложение Expo Go на физическом устройстве (Android / iOS)
+> - Команды Expo запускаются через `npx expo` — глобальная установка не требуется
 
 ---
 
